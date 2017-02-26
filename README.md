@@ -1,6 +1,6 @@
 # Smart-medicine-packaging
 
-This project is made for the "IAmazon DRS Developer Challenge" contest on www.hackster.io.
+This project is made for the "Amazon DRS Developer Challenge" contest on www.hackster.io.
 <br>
 <br>
 See the full project here:
